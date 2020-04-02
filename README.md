@@ -4,7 +4,7 @@ Thank you for taking time to do our take at home assignment.
 
 ## Task
 
-Create a small SPA application that uses Google Maps API, which lets the user save interesting places the user wants to visit in Stockholm. Use one of the following frameworks Vue/React/Angular.
+Create a small SPA application that uses Google Maps API, which lets the user save interesting places the user wants to visit in Stockholm. Use one of the following frameworks Vue/React/Angular. You decide on the design.
 
 ## Requirements
 - Pre-Populate the map with the data from the `data.json` found in this repo
