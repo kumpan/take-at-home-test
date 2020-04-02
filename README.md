@@ -12,7 +12,8 @@ Create a small SPA application that uses Google Maps API, which lets the user sa
 - Clicking on map shows a popup appears with the input Name and a button Save
 - List that shows saved places: 
   - Click on place zooms the map to that locations and shows popup with name 
-  - List should be filterable using a input Search • Delete button removes that saved place
+  - List should be filterable using a input Search 
+  - Delete button removes that saved place
 
 
 ## Bonus points
