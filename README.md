@@ -22,8 +22,6 @@ Create a small SPA application that uses Google Maps API, which lets the user sa
 
 ## Submission Guidelines
 
-* The zip file should be named {yourname}.zip, and should itself contain the project folder with your submission. Do not publish it on a public git repo.
+* Create a private repository on github and ask the recruiter for whom to invite to this repositor. Do not publish this repository.
 
-* The zip file should contain a README.md file with instructions on how to run the project and your thoughts on how you solved it.
-
-* The zip file should **not** include the `node_modules` folder.
+* The reposityr should contain a README.md file with instructions on how to run the project and your thoughts on how you solved it.
