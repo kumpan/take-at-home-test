@@ -22,6 +22,6 @@ Create a small SPA application that uses Google Maps API, which lets the user sa
 
 ## Submission Guidelines
 
-* Create a private repository on github and ask the recruiter for whom to invite to this repositor. Do not publish this repository.
+* Create a private repository on github and ask the recruiter for whom to invite to this repository. Do not publish this repository.
 
 * The reposityr should contain a README.md file with instructions on how to run the project and your thoughts on how you solved it.
